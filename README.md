@@ -1,4 +1,4 @@
-# AGNEYRAAGNEYRA Data Analysis Internship Project
+# AGNEYRA Data Analysis Internship Project
 
 Projects Included:
 
